@@ -195,16 +195,12 @@
 @media (max-width: 768px) {
     .wrapper {
         border-radius: 10px;
-        /* width: 70vw; */
         min-width: 820px;
         height: 70vh;
         min-height: 725px;
         margin: 0 auto;
         background: rgb(172 154 70);
         padding: 10px;
-        /* display: flex;
-        flex-direction: column;
-        justify-content: center; */
     }
     .wraper-navigation {
         margin: 0 auto;
