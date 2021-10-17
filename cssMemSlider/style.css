@@ -231,24 +231,24 @@
     }
     label {
         cursor: pointer;
-        height: 38px;
-        width: 38px;
+        height: 45px;
+        width: 45px;
         border: rgb(172 154 70) solid 7px;
         background: black;
         border-radius: 50%;
     }
     label:hover {
         cursor: pointer;
-        height: 38px;
-        width: 38px;
+        height: 45px;
+        width: 45px;
         border: rgb(172 154 70) solid 7px;
         background: wheat;
         border-radius: 50%;
     }
     label:active {
         cursor: pointer;
-        height: 38px;
-        width: 38px;
+        height: 45px;
+        width: 45px;
         border: rgb(172 154 70) solid 7px;
         background: rgb(187, 3, 3);
         border-radius: 50%;
@@ -258,8 +258,8 @@
     #slide3:checked~.wraper-navigation>.controls label:nth-of-type(3),
     #slide4:checked~.wraper-navigation>.controls label:nth-of-type(4),
     #slide5:checked~.wraper-navigation>.controls label:nth-of-type(5) {
-        height: 38px;
-        width: 38px;
+        height: 45px;
+        width: 45px;
         border: rgb(172 154 70) solid 7px;
         background: white;
         border-radius: 50%;
