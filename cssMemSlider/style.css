@@ -109,7 +109,7 @@
         height: 28px;
         width: 28px;
         border: rgb(172 154 70) solid 7px;
-        background: red;
+        background: rgb(187, 3, 3);
         border-radius: 50%;
     }
     #slide1:checked~.wraper-navigation>.controls label:nth-of-type(1),
@@ -250,7 +250,7 @@
         height: 38px;
         width: 38px;
         border: rgb(172 154 70) solid 7px;
-        background: red;
+        background: rgb(187, 3, 3);
         border-radius: 50%;
     }
     #slide1:checked~.wraper-navigation>.controls label:nth-of-type(1),
